@@ -14,7 +14,7 @@ For more information, check out the paper on [[arXiv](https://arxiv.org/abs/2211
 - cuda 11.2
 
 ## Experiments
-Coming soon,
+Coming soon.
 
 ## Results
 <p align="middle">
